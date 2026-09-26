@@ -1,0 +1,6 @@
+# General HuntiX config. Copy this file to ~/.config/huntix/config.yaml
+# and fill in the values you need.
+
+# Used by the urlscan tool for full (non-rate-limited) results.
+# Get a free key at https://urlscan.io/user/signup
+urlscan_api_key: "YOUR_API_KEY_HERE"
