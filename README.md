@@ -79,7 +79,7 @@ a general config as more options get added.
 ```bash
 mkdir -p ~/.config/huntix
 cp config.yaml.example ~/.config/huntix/config.yaml
-nano ~/.config/urlhunter/config.yaml  # and add your Api-key
+nano ~/.config/huntix/config.yaml  # and add your Api-key
 ```
 
 
