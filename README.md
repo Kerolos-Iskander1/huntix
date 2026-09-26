@@ -11,6 +11,7 @@ de-duplicates everything into one clean output file.
   ██╔══██║ ██║   ██║ ██║╚██╗██║    ██║    ██║  ██╔██╗ 
   ██║  ██║ ╚██████╔╝ ██║ ╚████║    ██║    ██║ ██╔╝ ██╗
   ╚═╝  ╚═╝  ╚═════╝  ╚═╝  ╚═══╝    ╚═╝    ╚═╝ ╚═╝  ╚═╝
+                        v2.0 - Automated URL Recon
 ```
 
 
